@@ -1,5 +1,5 @@
 #!/bin/env python3
-# code by : youtube.com/theunknon
+# code by Me
 
 """
 
@@ -17,9 +17,9 @@ import time
 def banner():
 	os.system('clear')
 	print(f"""
-	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
-	{re}╚═╗{cy}├┤  │ │ │├─┘
-	{re}╚═╝{cy}└─┘ ┴ └─┘┴
+	{re}╔═╗{cy}┌─┐ ┬   ┬ ┬ 
+	{re}╚═╗{cy}├┤  │   │ │ 
+	{re}╚═╝{cy}└─┘ ┴└└ ┴ ┴ 
 	""")
 
 def requirements():
